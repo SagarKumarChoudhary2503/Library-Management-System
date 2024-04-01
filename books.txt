@@ -1,0 +1,142 @@
+"books": [
+        {
+            "id": 1,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "category": "Classic Fiction",
+            "type": "Novel"
+        },
+        {
+            "id": 2,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "category": "Classic Fiction",
+            "type": "Novel"
+        },
+        {
+            "id": 3,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "category": "Classic Fiction",
+            "type": "Novel"
+        },
+        {
+            "id": 4,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "category": "Classic Fiction",
+            "type": "Novel"
+        },
+        {
+            "id": 5,
+            "title": "1984",
+            "author": "George Orwell",
+            "category": "Science Fiction",
+            "type": "Novel"
+        },
+        {
+            "id": 6,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "category": "Fantasy",
+            "type": "Novel"
+        },
+        {
+            "id": 7,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "category": "Fantasy",
+            "type": "Novel"
+        },
+        {
+            "id": 8,
+            "title": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "category": "Mystery",
+            "type": "Novel"
+        },
+        {
+            "id": 9,
+            "title": "Gone Girl",
+            "author": "Gillian Flynn",
+            "category": "Mystery",
+            "type": "Novel"
+        },
+        {
+            "id": 10,
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "category": "Young Adult",
+            "type": "Novel"
+        },
+        {
+            "id": 11,
+            "title": "Divergent",
+            "author": "Veronica Roth",
+            "category": "Young Adult",
+            "type": "Novel"
+        },
+        {
+            "id": 12,
+            "title": "The Fault in Our Stars",
+            "author": "John Green",
+            "category": "Young Adult",
+            "type": "Novel"
+        },
+        {
+            "id": 13,
+            "title": "Sapiens: A Brief History of Humankind",
+            "author": "Yuval Noah Harari",
+            "category": "Non-Fiction",
+            "type": "Non-Fiction"
+        },
+        {
+            "id": 14,
+            "title": "Educated",
+            "author": "Tara Westover",
+            "category": "Non-Fiction",
+            "type": "Non-Fiction"
+        },
+        {
+            "id": 15,
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "category": "Non-Fiction",
+            "type": "Non-Fiction"
+        },
+        {
+            "id": 16,
+            "title": "The Silent Patient",
+            "author": "Alex Michaelides",
+            "category": "Thriller",
+            "type": "Novel"
+        },
+        {
+            "id": 17,
+            "title": "The Girl on the Train",
+            "author": "Paula Hawkins",
+            "category": "Thriller",
+            "type": "Novel"
+        },
+        {
+            "id": 18,
+            "title": "The Nightingale",
+            "author": "Kristin Hannah",
+            "category": "Historical Fiction",
+            "type": "Novel"
+        },
+        {
+            "id": 19,
+            "title": "All the Light We Cannot See",
+            "author": "Anthony Doerr",
+            "category": "Historical Fiction",
+            "type": "Novel"
+        },
+        {
+            "id": 20,
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "category": "Philosophical Fiction",
+            "type": "Novel"
+      }
+]
